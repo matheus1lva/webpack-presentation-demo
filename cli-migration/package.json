@@ -1,0 +1,12 @@
+{
+  "name": "cli-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@webpack-cli/init": "0.1.0",
+    "@webpack-cli/migrate": "0.1.0",
+    "webpack": "4.17.1",
+    "webpack-cli": "3.1.0"
+  }
+}
